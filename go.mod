@@ -25,8 +25,8 @@ require (
 	github.com/spf13/pflag v1.0.5
 	go.mozilla.org/gopgagent v0.0.0-20170926210634-4d7ea76ff71a
 	go.mozilla.org/sops/v3 v3.7.0
-	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
-	golang.org/x/net v0.0.0-20210326060303-6b1517762897
+	golang.org/x/crypto v0.1.0
+	golang.org/x/net v0.1.0
 	google.golang.org/grpc v1.27.1
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	k8s.io/api v0.20.2
